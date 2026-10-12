@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Julia! 
 
-<!--
-**ljuliasilva/ljuliasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na FIAP.
 
-Here are some ideas to get you started:
+Sou estudante de tecnologia e estou construindo minha base em programação e desenvolvimento de software. Gosto de entender a lógica por trás das coisas, resolver problemas e aprender na prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 O que estou estudando
+
+- **Linguagens:** Python, C# e JavaScript
+- **Desenvolvimento web:** HTML e CSS
+- **Fundamentos:** Lógica de programação e orientação a objetos
+- **Ferramentas:** Git, GitHub e Visual Studio Code
+
+### 🌱 Meus interesses
+
+Tenho interesse em desenvolvimento de software, principalmente na parte de programação e resolução de problemas. Estou sempre buscando aprofundar meus conhecimentos, explorar novas tecnologias e evoluir como desenvolvedora.
+
+### 📫 Onde me encontrar
+
+- GitHub: [@ljuliasilva](https://github.com/ljuliasilva)
+- LinkedIn: [Julia Lourenço Silva](https://www.linkedin.com/in/julia-louren%C3%A7o-silva-b3942a342/)
